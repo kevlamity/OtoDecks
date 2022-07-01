@@ -9,7 +9,7 @@ DJ Application player coded in C++ and JUCE Framework and projucer application
 - Track Speed control
 - Looping of track
 - Audio waveform display of track
-- Playback control on waveform
+- Track Playback/Position control on waveform
 - Playlist library
   - Tracks are saved when added
   - Playlist tracks persists even after exiting application
